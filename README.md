@@ -2,7 +2,7 @@
 
 ### Engineering Student | Geospatial Data Analysis & Remote Sensing
 
-I am a Master's student at **ISAE-SUPAERO** with a strong interest for Earth Observation, Satellite Imagery and GEOINT. Currently, I am specializing in **SAR (Synthetic Aperture Radar) analysis** and developing automated pipelines for surveillance and monitoring of environmental changes.
+I am a Master's student at **ISAE-SUPAERO** with a strong interest for Earth Observation, Satellite Imagery and GEOINT. Currently, I am specializing in **SAR (Synthetic Aperture Radar) analysis** and developing automated pipelines for surveillance stakes and monitoring of environmental changes.
 
 ---
 

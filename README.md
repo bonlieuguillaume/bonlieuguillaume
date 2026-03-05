@@ -18,7 +18,7 @@ I am a Master's student at **ISAE-SUPAERO** with a strong interest for Earth Obs
 
 
 ## 📊 Key Skills
-* **SAR Imaging:** SAR processing: orhtorectification, backscatter and coherence analysis.
+* **SAR Imaging:** SAR processing: orthorectification, backscatter and coherence analysis.
 * **Automation:** Building processing pipelines for large-scale satellite data.
 * **Soft Skills:** Leadership (Former Association President), problem-solving under pressure, and proactive project management.
 

@@ -8,7 +8,7 @@ I am a Master's student at **ISAE-SUPAERO** with a strong interest for Earth Obs
 
 ## 🛰️ Current Focus
 * **Internship at SERTIT (ICUBE):** Developed a Python pipeline for surface change and deforestation detection using **Sentinel-1 SAR imagery**.
-* **Maritime Surveillance Project:** Researching Deep Learning methods for 'dark fleet' detection and ship-iceberg discrimination in polar regions.
+* **Maritime Surveillance Project:** Maritime surveilance and 'dark fleet' detection. Also looking at ship-iceberg discrimination in polar regions.
 * **Education:** Aerospace Engineering cycle at ISAE-SUPAERO (Toulouse) & Exchange semester at UNRC (Argentina).
 
 ## 🛠️ Tech Stack
@@ -18,8 +18,8 @@ I am a Master's student at **ISAE-SUPAERO** with a strong interest for Earth Obs
 
 
 ## 📊 Key Skills
-* **SAR Imaging:** SAR processing: orthorectification, backscatter and coherence analysis.
-* **Automation:** Building processing pipelines for large-scale satellite data.
+* **SAR Imaging:** SAR processing: orthorectification, backscatter and coherence analysis. 
+* **Geospatial data science:** Leveraging data sciences and deep-learning to extract value from geospatial data. 
 * **Soft Skills:** Leadership (Former Association President), problem-solving under pressure, and proactive project management.
 
 ## 🌍 Languages

@@ -2,7 +2,7 @@
 
 **Aerospace Engineering Student | SAR, Remote Sensing & Geospatial Data Science**
 
-I am an engineering student at ISAE-SUPAERO (Master's in Aerospace Engineering, major in Earth Observation), currently pursuing an MSc in Operations Research and Optimisation at Université de Toulouse. I am passionate about Earth Observation, satellite imagery and GEOINT, and I specialise in SAR (Synthetic Aperture Radar) processing: building automated pipelines for maritime surveillance and environmental change monitoring.
+I am an engineering student at ISAE-SUPAERO (Master's in Aerospace Engineering, major in Earth Observation), also pursuing an MSc in Operations Research and Optimisation at Université de Toulouse. I am passionate about Earth Observation, satellite imagery and GEOINT, and I specialise in SAR (Synthetic Aperture Radar) processing: building automated pipelines for remote sensing applications.
 
 🎯 **Seeking a 6-month final-year internship from April 2027.**
 

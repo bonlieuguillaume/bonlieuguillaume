@@ -9,8 +9,9 @@ I am an engineering student at ISAE-SUPAERO (Master's in Aerospace Engineering, 
 ### 🛰️ Current Focus
 
 - **[Rosarium](https://github.com/bonlieuguillaume/rosarium)**: Python toolbox for Sentinel-1 preprocessing. Search, download and pre/post processing in fewer than 10 clicks through a map interface, with a fully European data and processing chain (Copernicus CDSE, ESA SNAP).
+- **Aletheia**: detection of manually tampered and AI-generated SAR images.
 - **Aerospacelab, Engineering and Business Project**: team project for an industrial client on the operating strategies of a spaceborne SAR (acquisition modes, on-board processing, detection algorithms).
-- **Maritime surveillance**: CFAR ship detection and 'dark fleet' identification from SAR imagery; also looking at ship–iceberg discrimination in polar regions.
+- **Maritime surveillance** *(on pause)*: CFAR ship detection and 'dark fleet' identification from SAR imagery; also looking at ship–iceberg discrimination in polar regions.
 
 ### 💼 Experience & Education
 
@@ -22,12 +23,12 @@ I am an engineering student at ISAE-SUPAERO (Master's in Aerospace Engineering, 
 
 - **Languages:** Python (primary), basic SQL, Java, C
 - **Geospatial & RS:** ESA SNAP, Copernicus (Sentinel-1/2, CDSE, STAC), QGIS, Rasterio, GeoPandas
-- **AI & Data Science:** Machine Learning, Deep Learning, PyTorch, Scikit-learn, NumPy
-- **Tools:** Git / GitHub, Docker, Conda
+- **AI & Data Science:** Machine Learning, Deep Learning, Scikit-learn, NumPy
+- **Tools:** Conda, Git, GitHub, Docker
 
 ### 📊 Key Skills
 
-- **SAR imaging:** geometric and radiometric corrections, coregistration, backscatter and coherence analysis, ship detection.
+- **SAR imaging:** geometric and radiometric corrections, coregistration, backscatter and coherence analysis.
 - **Geospatial data science:** leveraging data science and deep learning to extract value from geospatial data.
 - **Soft skills:** leadership (former association president), problem-solving under pressure, proactive project management.
 

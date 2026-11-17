@@ -8,6 +8,15 @@ I am an engineering student at ISAE-SUPAERO (Master's in Aerospace Engineering, 
 
 ### 🛰️ Projects
 
+#### 🌹 [Rosarium](https://github.com/bonlieuguillaume/rosarium): Sentinel-1 preprocessing toolbox *(June 2026 – present)*
+
+From an area of interest to analysis-ready GeoTIFFs: search the Copernicus CDSE STAC catalogue, download, then pre/post-event backscatter and coherence processing with ESA SNAP, all in fewer than 10 clicks through a webmap. Fully European data and processing chain, no dependency on ASF.
+
+![Rosarium webmap: pre/post product search over a deforestation area](https://raw.githubusercontent.com/bonlieuguillaume/rosarium/main/frontend/rosarium_display.png)
+*The webmap: pre-event (blue) and post-event (pink) Sentinel-1 footprints over an area of interest, ready to download and preprocess.*
+
+- Python, ESA SNAP (gpt), Copernicus STAC (CDSE), rclone, Leaflet.
+
 #### 🔍 [Aletheia](https://github.com/bonlieuguillaume/aletheia): SAR forensics *(Nov. 2026 – present)*
 
 **Detecting tampered and AI-generated Sentinel-1 radar images.** Fake satellite imagery now spreads during conflicts, and SAR is the natural next target: it is used for verification and defence, and its look (speckle, layover, radar shadows) is hard to challenge by eye. Given a SAR image, Aletheia answers two questions: *is it forged?* and *where?*
@@ -20,15 +29,6 @@ I am an engineering student at ISAE-SUPAERO (Master's in Aerospace Engineering, 
 - **v0.1 results** on unseen test scenes: image MCC 0.998, pixel MCC 0.991, one error out of 800 patches per level.
 - **Next:** harder forgeries (distant-source copy-move, splicing), then inpainting and generated images.
 - Python, PyTorch, Google Colab, pytest + GitHub Actions CI.
-
-#### 🌹 [Rosarium](https://github.com/bonlieuguillaume/rosarium): Sentinel-1 preprocessing toolbox *(June 2026 – present)*
-
-From an area of interest to analysis-ready GeoTIFFs: search the Copernicus CDSE STAC catalogue, download, then pre/post-event backscatter and coherence processing with ESA SNAP, all in fewer than 10 clicks through a webmap. Fully European data and processing chain, no dependency on ASF.
-
-![Rosarium webmap: pre/post product search over a deforestation area](https://raw.githubusercontent.com/bonlieuguillaume/rosarium/main/frontend/rosarium_display.png)
-*The webmap: pre-event (blue) and post-event (pink) Sentinel-1 footprints over an area of interest, ready to download and preprocess.*
-
-- Python, ESA SNAP (gpt), Copernicus STAC (CDSE), rclone, Leaflet.
 
 #### 🌊 [Moonfleet](https://github.com/bonlieuguillaume/moonfleet): maritime surveillance *(on pause)*
 
